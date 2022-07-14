@@ -1,0 +1,9 @@
+.content {
+  background: rgb(80, 26, 51);
+  color: rgb(156, 238, 206);
+}
+
+.footer {
+  /* border-top: 1px solid black; */
+  padding: 10px;
+}

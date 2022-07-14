@@ -1,0 +1,12 @@
+{
+  "apps": [
+    {
+      "name": "auth",
+      "script": "index.js",
+      "exec_mode": "cluster",
+      "instances": 4,
+      "out_file": "logs.txt",
+      "combine_logs": true
+    }
+  ]
+}

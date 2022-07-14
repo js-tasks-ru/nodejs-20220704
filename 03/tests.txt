@@ -1,0 +1,5 @@
+unit test
+integration
+functional/e2e
+
+jest, jasmine, tape, mocha, node:test, assert

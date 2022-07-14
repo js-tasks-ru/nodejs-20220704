@@ -1,0 +1,4 @@
+{"label":"application","level":"info","message":"App is running on http://localhost:3000","timestamp":"2022-06-09T17:34:51.356Z"}
+{"label":"application","level":"info","message":"App is running on http://localhost:3000","timestamp":"2022-06-09T17:34:51.366Z"}
+{"label":"application","level":"info","message":"App is running on http://localhost:3000","timestamp":"2022-06-09T17:34:51.404Z"}
+{"label":"application","level":"info","message":"App is running on http://localhost:3000","timestamp":"2022-06-09T17:34:51.474Z"}
